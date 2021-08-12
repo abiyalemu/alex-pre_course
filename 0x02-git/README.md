@@ -1,1 +1,1 @@
-mkdir 0x02-git
+project dirctory
